@@ -1,7 +1,7 @@
 {
 	"name": "node-app",
 	"version": "1.0.0",
-	"description": "Server Side App with Google Passport Authentication",
+	"description": "Node Server Side App with Google Passport Authentication",
 	"main": "app.js",
 	"scripts": {
 		"start": "cross-env NODE_ENV=production node app.js",
